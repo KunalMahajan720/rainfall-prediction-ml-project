@@ -51,9 +51,7 @@ jupyter notebook
 * Precision: XX%
 * Recall: XX%
 
-## 📸 Screenshots
 
-(Add graphs / output images here)
 
 ## 🔮 Future Improvements
 
