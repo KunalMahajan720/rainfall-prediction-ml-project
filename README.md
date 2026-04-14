@@ -47,9 +47,9 @@ jupyter notebook
 
 ## 📈 Model Performance
 
-* Accuracy: XX%
-* Precision: XX%
-* Recall: XX%
+* Accuracy: 89%
+* Precision: 86%
+* Recall: 93%
 
 
 
